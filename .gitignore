@@ -1,0 +1,5 @@
+db_backups
+db_backups/*
+node_modules
+node_modules/*
+*.pyc
